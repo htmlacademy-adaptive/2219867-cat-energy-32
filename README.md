@@ -2,7 +2,7 @@
 
 * Студент: [Евгений Яковенко](https://up.htmlacademy.ru/adaptive/32/user/2219867).
 * Наставник: [Андрей Грачев](https://htmlacademy.ru/profile/id252055)
-
+* Сайт: [Cat-energy](https://ev-gen-ux.github.io/2219867-cat-energy-32/)
 ---
 
 **Обратите внимание, что папка с вашими исходными файлами для работы над проектом — `source/`.**
